@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-262-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-267-blue.svg" alt="number">
 </p>
 
 
@@ -162,6 +162,10 @@
 
 > **评分**: 🌟🌟🌟🌟🌟         |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
 
+- https://github.com/knownsec/ksubdomain - **一款跨平台且无状态子域名爆破工具，Mac和Windows上理论最大发包速度在30w/s,linux上为160w/s**
+
+> **评分**: 🌟🌟🌟🌟🌟         |         **编程语言**: **Go**         |         **仍在维护**: ✔️
+
 
 ### 数据库注入漏洞或认证爆破
 
@@ -224,6 +228,11 @@
 - https://github.com/m8r0wn/enumdb  - **MySQL以及MSSQL爆破脱裤工具**
 
 > **评分**: 🌟🌟🌟🌟         |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
+
+- https://github.com/tariqhawis/injectbot  - **一个基于Web的SQL注入扫描程序和漏洞利用工具**
+
+> **评分**: 🌟🌟🌟🌟         |         **编程语言**: **PHP**         |         **仍在维护**: ✔️
+
 
 ### 网站弱用户名或弱口令枚举爆破
 
@@ -317,6 +326,10 @@
 
 > **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
 
+- https://github.com/pwn0sec/PwnXSS - **基于Python 3.7的多线程XSS扫描器**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
 
 ### 企业资产管理或数据保护
 
@@ -379,6 +392,14 @@
 - https://github.com/eth0izzle/shhgit - **基于Docker和Web的Github敏感信息泄漏监控系统**
 
 > **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Go**         |         **仍在维护**: ✔️
+
+- https://github.com/SAP/credential-digger - **基于机器学习去除误报的Github敏感信息泄漏扫描系统**
+
+> **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
+
+- https://github.com/TophantTechnology/ARL - **敏捷资产侦查管理系统**
+
+> **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
 
 
 ### 恶意脚本或木马检测
@@ -1192,5 +1213,6 @@ scanbox在Mozilla协议条款下发布
 - **@cnlnn**
 - **@yunxu1**
 - **@saeeddhqan**
+- **@Sofiane Lounici**
 
-&copy;<a href="https://github.com/monsterzer0" target="_blank">Monster Zero Team</a> 2019
+&copy;<a href="https://github.com/monsterzer0" target="_blank">Monster Zero Team</a> 2020

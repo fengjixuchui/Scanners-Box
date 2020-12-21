@@ -7,7 +7,7 @@ English | [简体中文](./README_CN.md)
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-262-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-267-blue.svg" alt="number">
 </p>
 
 ## Introduction
@@ -155,11 +155,16 @@ English | [简体中文](./README_CN.md)
 
 - https://github.com/yunxu1/dnsub - **A high concurrency and cross platform subdomain scanner based on Golang**
 
-> **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **GO**         |         **Ongoing[last 6 months]**: ✔️
+> **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
 
 - https://github.com/shmilylty/OneForAll - **An ultimate subdomains scanner integrated multiple subdomain scanning tools**
 
 > **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+
+- https://github.com/knownsec/ksubdomain - **A stateless and cross-platform subdomain enumeration tool, speed up to 30w/s on Mac and Windows, and 160w/s on Linux**
+
+> **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
 
 
 ### Database SQL Injection Vulnerability or Brute Force
@@ -223,6 +228,10 @@ English | [简体中文](./README_CN.md)
 - https://github.com/m8r0wn/enumdb  - **MySQL and MSSQL brute force and post exploitation tool**
 
 > **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/tariqhawis/injectbot  - **A web-based, easy-to-use, SQL injection scanner and exploiter tool**
+
+> **Rating**: 🌟🌟🌟🌟         |         **Language**: **PHP**         |         **Ongoing[last 6 months]**: ✔️
 
 
 ### Weak Usernames or Passwords Enumeration For Web
@@ -318,6 +327,11 @@ English | [简体中文](./README_CN.md)
 > **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
 
 
+- https://github.com/pwn0sec/PwnXSS - **A powerful XSS scanner made in python 3.7**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+
 ### Enterprise Assets Management or Data Protection
 
 - https://github.com/ysrc/xunfeng - **Vulnerability rapid response,scanning system for intranet**
@@ -379,6 +393,14 @@ English | [简体中文](./README_CN.md)
 - https://github.com/eth0izzle/shhgit - **A docker and web based monitor for finding secrets and sensitive files across GitHub**
 
 > **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/SAP/credential-digger - **A GitHub scanning tool that identifies hardcoded credentials, filtering the false positive data through machine learning models.**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/TophantTechnology/ARL - **An agile asset reconnaissance system**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
 
 ### Malicious Scripts or Binary Malware Detection
@@ -1191,5 +1213,6 @@ We would like to thanks the following security researchers for their valuable fe
 - **@cnlnn**
 - **@yunxu1**
 - **@saeeddhqan**
+- **@Sofiane Lounici**
 
-&copy;<a href="https://github.com/monsterzer0" target="_blank">Monster  Zero Team</a> 2019
+&copy;<a href="https://github.com/monsterzer0" target="_blank">Monster  Zero Team</a> 2020
