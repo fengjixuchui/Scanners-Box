@@ -7,7 +7,7 @@ English | [简体中文](./README_CN.md)
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-267-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-276-blue.svg" alt="number">
 </p>
 
 ## Introduction
@@ -34,6 +34,7 @@ English | [简体中文](./README_CN.md)
 - [Dynamic or Static Code Analysis](#dynamic-or-static-code-analysis)
 - [Modular Design Scanners or Vulnerability Detecting Framework](#modular-design-scanners-or-vulnerability-detecting-framework)
 - [Advanced Persistent Threat](#advanced-persistent-threat)
+- [Mobile Apps Code Analysis](#mobile-apps-code-analysis)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -161,10 +162,13 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
-
 - https://github.com/knownsec/ksubdomain - **A stateless and cross-platform subdomain enumeration tool, speed up to 30w/s on Mac and Windows, and 160w/s on Linux**
 
 > **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/gwen001/github-subdomains - **Find subdomains on GitHub**
+
+> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
 
 
 ### Database SQL Injection Vulnerability or Brute Force
@@ -215,7 +219,7 @@ English | [简体中文](./README_CN.md)
 
 - https://github.com/ron190/jsql-injection - **A lightweight application used to find database information from a distant server**
 
-> **Rating**: 🌟🌟🌟         |         **Language**: **Java**         |         **Ongoing[last 6 months]**: ✖️
+> **Rating**: 🌟🌟🌟         |         **Language**: **Java**         |         **Ongoing[last 6 months]**: ✔️
 
 - https://github.com/Hadesy2k/sqliv - **Massive SQL injection vulnerability scanner**
 
@@ -290,6 +294,10 @@ English | [简体中文](./README_CN.md)
 - https://github.com/w3h/icsmaster/tree/master/nse - **Digital bond's ICS enumeration tools**
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **NSE**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/firmianay/firmeye - **An IDA plug-in, based on sensitive function parameter backtracking to assist in vulnerability mining**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
 
 ### Mutiple types of Cross-site scripting Detection
@@ -399,6 +407,10 @@ English | [简体中文](./README_CN.md)
 > **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
 - https://github.com/TophantTechnology/ARL - **An agile asset reconnaissance system**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/smallcham/sec-admin - **SEC can be used for enterprises to scan and check the security of server resources which has strong controllability, supports distributed multi-node deployment.**
 
 > **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
@@ -1143,6 +1155,15 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Java**         |         **Ongoing[last 6 months]**: ✔️
 
+- https://github.com/er10yi/MagiCude - **A scanner based on the Spring Boot micro-service,supports distributed port (vulnerability) scanning, asset security management, real-time threat monitoring and notification, vulnerability lifecycle, vulnerability wiki, email notification, etc**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Java**         |         **Ongoing[last 6 months]**: ✔️
+
+
+- https://github.com/projectdiscovery/nuclei - **A fast tool for configurable targeted vulnerability scanning based on templates offering massive extensibility**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
+
 
 ### Advanced Persistent Threat
 
@@ -1153,6 +1174,25 @@ English | [简体中文](./README_CN.md)
 - https://github.com/Neo23x0/Fenrir - **Simple IOC and Incident Response Scanner**
 
 > **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Bash Shell**         |         **Ongoing[last 6 months]**: ✔️
+
+
+### Mobile Apps Code Analysis
+
+- https://github.com/dwisiswant0/apkleaks - **Scanning APK file for URIs, endpoints & secrets**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/kelvinBen/AppInfoScanner - **Collecting information from APK file, support self-defined rules**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/maaaaz/androwarn - **Yet another static code analyzer for malicious Android applications**
+
+> **Rating**: 🌟🌟       |         **Language**: **Python 2.X/3.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/quark-engine/quark-engine - **Android Malware (Analysis | Scoring) System**
+
+> **Rating**: 🌟🌟🌟🌟🌟     |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
 
 ***

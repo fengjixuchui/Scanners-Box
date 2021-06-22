@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-267-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-276-blue.svg" alt="number">
 </p>
 
 
@@ -35,6 +35,7 @@
 - [动态或静态代码审计](#动态或静态代码审计)
 - [模块化设计扫描器或漏洞评估框架](#模块化设计扫描器或漏洞评估框架)
 - [高级持续性威胁](#高级持续性威胁)
+- [移动应用代码分析](#移动应用代码分析)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -166,6 +167,10 @@
 
 > **评分**: 🌟🌟🌟🌟🌟         |         **编程语言**: **Go**         |         **仍在维护**: ✔️
 
+- https://github.com/gwen001/github-subdomains - **在Github上搜索目标子域名**
+
+> **评分**: 🌟🌟🌟🌟         |         **编程语言**: **Go**         |         **仍在维护**: ✔️
+
 
 ### 数据库注入漏洞或认证爆破
 
@@ -215,7 +220,7 @@
 
 - https://github.com/ron190/jsql-injection - **Java 编写的SQL注入工具**
 
-> **评分**: 🌟🌟🌟         |         **编程语言**: **Java**         |         **仍在维护**: ✖️
+> **评分**: 🌟🌟🌟         |         **编程语言**: **Java**         |         **仍在维护**: ✔️
 
 - https://github.com/Hadesy2k/sqliv - **基于搜索引擎的批量SQL注入漏洞扫描器**
 
@@ -290,6 +295,11 @@
 - https://github.com/w3h/icsmaster/tree/master/nse - **数字化工控设备认证爆破工具**
 
 > **评分**: 🌟🌟🌟        |         **编程语言**: **NSE**         |         **仍在维护**: ✖️
+
+
+- https://github.com/threat9/routersploit - **IDA 插件，基于敏感函数参数回溯来辅助漏洞挖掘**
+
+> **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
 
 
 ### 多类型跨站脚本漏洞检测
@@ -398,6 +408,10 @@
 > **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
 
 - https://github.com/TophantTechnology/ARL - **敏捷资产侦查管理系统**
+
+> **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
+
+- https://github.com/smallcham/sec-admin - **SEC可用于企业对服务器资源安全进行扫描排查，可控性强、支持分布式多节点部署**
 
 > **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
 
@@ -1142,6 +1156,14 @@
 
 > **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Java**         |         **Ongoing[last 6 months]**: ✔️
 
+- https://github.com/er10yi/MagiCude - **基于Spring Boot微服务架构的扫描器,支持分布式端口（漏洞）扫描、资产安全管理、实时威胁监控与通知、自动漏洞闭环、漏洞wiki、邮件通知等功能**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Java**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/projectdiscovery/nuclei - **基于YAML规则的高扩展性模板化漏洞扫描工具**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
+
 
 ### 高级持续性威胁
 
@@ -1152,6 +1174,23 @@
 - https://github.com/Neo23x0/Loki - **根据公开情报库里的IOC信息检索本地是否存在相同hash、相似文本内容的文件或与恶意C2的网络连接**
 
 > **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Bash Shell**         |         **仍在维护**: ✔️
+
+### 移动应用代码分析
+
+- https://github.com/dwisiswant0/apkleaks - **扫描APK文件中的URL、接口与密钥泄露等风险**
+
+> **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✔️
+
+- https://github.com/kelvinBen/AppInfoScanner - **APK文件信息搜集工具，支持自定义规则**
+
+> **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
+
+- https://github.com/maaaaz/androwarn - **安卓应用静态代码扫描工具**
+
+> **评分**: 🌟🌟       |         **编程语言**: **Python 2.x/3.x**         |         **仍在维护**: ✖️
+- https://github.com/quark-engine/quark-engine - **安卓恶意分析扫描工具**
+
+> **评分**: 🌟🌟🌟🌟🌟     |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
 
 
 ***
